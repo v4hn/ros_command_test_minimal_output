@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+  <node name="minimal_output" pkg="test_minimal_output" type="minimal_output.py" output="screen" />
+</launch>

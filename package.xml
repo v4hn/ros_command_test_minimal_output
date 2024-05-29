@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>test_minimal_output</name>
+  <version>0.0.0</version>
+  <description>The test_minimal_output package</description>
+  <maintainer email="v4hn@todo.todo">v4hn</maintainer>
+  <license>BSD</license>
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
